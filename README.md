@@ -1,5 +1,4 @@
 <!-- github does not support `width` with markdown images-->
-<img src="logo/skaffold.png" width="220">
 
 ---------------------
 
@@ -20,7 +19,7 @@ provides building blocks and describe customizations for a CI/CD pipeline.
 
 Or, check out our [Github Releases](https://github.com/GoogleContainerTools/skaffold/releases) page for release info or to install a specific version.
 
-![Demo](docs/static/images/intro.gif)
+![Demo]
 
 ## Features
 
