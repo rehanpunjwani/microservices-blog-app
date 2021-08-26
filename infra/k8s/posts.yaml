@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: posts
+spec:
+  containers:
+  - name: myapp
+    image: rehanpunjwani/posts:0.0.1
